@@ -1,5 +1,5 @@
 # 💫 About Me:
-📇 Senior Full Stack Software Engineering<br>📍 Chicago, IL (Remote)<br>💬 Ask me about: Cloud infrastructure, Back-end Development, Skiing & Hiking<br>⚡️ Fun Fact about me: Calgary Flames rocks!
+📇 Senior Full Stack Software Engineering<br>📍 Calgary, AM (Remote)<br>💬 Ask me about: Cloud infrastructure, Back-end Development, Skiing & Hiking<br>⚡️ Fun Fact about me: Calgary Flames rocks!
 
 
 ## 🌐 Socials:
@@ -17,9 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😂 Meme of the Day
-<img src="https://meme-api.com/gimme" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=marchiani&icon=6&color=12)](https://visitcount.itsvg.in)
