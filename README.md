@@ -1,5 +1,5 @@
 # 💫 About Me:
-📇 Senior Full Stack Software Engineering<br>📍 Calgary, AM (Remote)<br>💬 Ask me about: Cloud infrastructure, Back-end Development, Skiing & Hiking<br>⚡️ Fun Fact about me: Calgary Flames rocks!
+📇 Senior Full Stack Software Engineering<br>📍 Calgary, AB (Remote)<br>💬 Ask me about: Cloud infrastructure, Back-end Development, Skiing & Hiking<br>⚡️ Fun Fact about me: Calgary Flames rocks!
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marchiani&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marchiani&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marchiani&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marchiani&theme=flat&no-frame=true&no-bg=false&margin-w=4)
