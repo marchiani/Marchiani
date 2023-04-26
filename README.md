@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨‍💻 Senior Full Stack Software Engineering
+👨‍💻 Data / Full Stack Software Engineering
 <br>📍 Calgary, AB (Remote)
 <br>💬 Ask me about: Cloud infrastructure, Back-end Development, Skiing & Hiking
 <br>
